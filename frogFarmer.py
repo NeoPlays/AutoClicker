@@ -21,7 +21,7 @@ while True:
     pyautogui.move(0, 45)
     pyautogui.click()
     time.sleep(15)
-    pyautogui.move(0, 55)
+    pyautogui.move(0, 45)
     pyautogui.click()
     time.sleep(15)
     pyautogui.move(0, 45)
